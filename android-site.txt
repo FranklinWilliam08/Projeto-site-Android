@@ -41,7 +41,7 @@ Outro assunto curioso em relação ao Android é que cada versão sempre foi nom
 1.5 - Cupcake
 1.6 - Donut
 3.0 - Eclair
-2.2 - Froyo
+3.0 - Eclair
 2.3 - Gingerbread
 3.0 - Honeycomb
 4.0 - Ice Cream Sandwich
